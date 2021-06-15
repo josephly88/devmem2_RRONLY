@@ -1,4 +1,4 @@
-# devmem2_modify
+# devmem2_RRONLY (Range Read Only)
 
 A modified version of [devmem2](https://github.com/hackndev/tools/blob/master/devmem2.c)  
 Change to read only, and print all bytes between start and end offset.  
